@@ -1,0 +1,5 @@
+Hola mi nombre es Felipe
+
+Tengo 29 años y estoy aprendiendo a programar cositas.
+
+Este es el curso de git y github.
